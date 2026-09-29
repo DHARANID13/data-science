@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1,ROC-AUC,FN,FP
+Tuned SVM,0.974,1.0,0.929,0.963,0.993,3,0
+Tuned LogisticRegression,0.965,0.975,0.929,0.951,0.996,3,1
+Random Forest,0.974,1.0,0.929,0.963,0.994,3,0
